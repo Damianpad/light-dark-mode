@@ -29,7 +29,7 @@ function lightMode(){
     toggleIcon.children[1].classList.add('fa-sun');
     image1.src = 'img/undraw_static_website_light.svg';
     image2.src = 'img/undraw_feeling_proud_light.svg';
-    image3.src = 'img/undraw_conceptual_idea_dark.svg';
+    image3.src = 'img/undraw_conceptual_idea_light.svg';
     image4.src = 'img/undraw_web_development_light.svg';
 }
 
